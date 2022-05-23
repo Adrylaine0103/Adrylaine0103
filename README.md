@@ -2,6 +2,7 @@
 -📚 Estou interessada em aprender outras línguas.
 -📝 Estou iniciando neste ramo de programação onde já realizei dois projetos em duas bibliotecas distintas: Scratch e P5.js
 -💻 Eu e minha turma iremos colaborar com códigos destas duas bibliotecas.
+-🌸 Espero ajudar de alguma forma. 
 
 <!---
 Adrylaine0103/Adrylaine0103 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
